@@ -12,7 +12,7 @@
 - 💡 Core Member & Mentor of **Atal Tinkering Lab** at school
 - 🏆 State Level **Indian Children Science Congress** participant
 - 📰 Research featured in **Lokmat Times** newspaper
-- 🎤 Anchored **Freshers' event at IIT Patna** (Dec 2024)
+- 🎤 Anchored **Freshers' event at IIT Patna** (Dec 2025)
 - 🌍 From **Nagpur, Maharashtra, India**
 
 ---
