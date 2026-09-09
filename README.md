@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 ESC — Enhanced Study Companion</h3> <h4>https://esc-study-companion-web.onrender.com<h4>
+      <h3>📚 ESC — Enhanced Study Companion</h3> https://esc-study-companion-web.onrender.com
       <p>AI-powered personalised learning assistant. Recommendation engine ingests performance data → identifies topic gaps → ranks resources. <strong>Runner-Up @ Hack & Jam 2026</strong> (GDG Nagpur).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
