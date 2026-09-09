@@ -27,12 +27,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 COMET — Multi-Agent Orchestration</h3>
-      <p>12-agent AI system built with Google ADK and Gemini. Agents coordinate autonomously to resolve complex tasks — no manual handoffs.</p>
+      <h3>📚 ESC — Enhanced Study Companion</h3>
+      <p>AI-powered personalised learning assistant. Recommendation engine ingests performance data → identifies topic gaps → ranks resources. <strong>Runner-Up @ Hack & Jam 2026</strong> (GDG Nagpur).</p>
       <p>
-        <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
       </p>
     </td>
@@ -49,21 +48,22 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 ESC — Enhanced Study Companion</h3>
-      <p>AI-powered personalised learning assistant. Recommendation engine ingests performance data → identifies topic gaps → ranks resources. <strong>Runner-Up @ Hack & Jam 2026</strong> (GDG Nagpur).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🔬 DRISHTI — AI Exam Evaluation</h3>
       <p>Human-in-the-Loop OSM system. Blind-first verification · rubric-referenced rationale · append-only audit ledger · ESP32-S3 CAM capture pipeline. <em>Manuscript in Preparation.</em></p>
       <p>
         <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 COMET — Multi-Agent Orchestration</h3>
+      <p>12-agent AI system built with Google ADK and Gemini. Agents coordinate autonomously to resolve complex tasks — no manual handoffs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
       </p>
     </td>
   </tr>
