@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Kanishk%20%20Dubey&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Building%20Intelligent%20Systems%20(AI%20%2B%20IoT%20%2B%20Multi-Agent)IIT%20Patna&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Kanishk%20%20Dubey&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Founder%20at%20Evrayn%20%7C%20AI%20Agents%20%2B%20IoT%20%7C%20IIT%20Patna&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kanishkdubey1946-del">
@@ -10,10 +10,11 @@
 
 ## 📌 About Me
 
-- 🎓 BS-MS student @ **IIT Patna** — Computer Science & Data Analytics (CSDA, 2030) · CPI: 9.00
-- 🤖 Building **ESC** — ESC is a **multi-agentic system** where specialized AI agents collaborate—each handling a focused task like performance analysis, resource curation, planning, and                         guidance—to deliver a complete, personalized learning experience.
+- 🎓 BS–MS student at **IIT Patna** — Computer Science & Data Analytics (expected 2030)
+- 🚀 **Founder, [Evrayn](https://github.com/AncientWarRior13/evrayn)** — an early-stage Bengaluru team building spatial learning and digital heritage experiences. I focus on academic endorsements and legal/IP considerations as we develop VR Chem Labs and Dharma OS prototypes.
+- 🤖 Building **[ESC](https://github.com/kanishkdubey1946-del/ESC)** — adaptive learning with diagnostic quizzes, topic mastery tracking, versioned study plans, and 12 specialist AI agents.
 - 🌾 Built **AgroBot** — IoT-based smart agriculture system (IIT Patna Capstone-I)
-- 📄 Authored **DRISHTI** — Human-in-the-Loop AI research paper on examination evaluation *(manuscript in preparation)*
+- 📄 Working on **[DRISHTI](https://github.com/aDiii1633/drishti)** — human-in-the-loop exam evaluation with auditable decisions; research manuscript in preparation.
 - 🏆 **Runner-Up** @ Hack & Jam (GDG Nagpur) · **Finalist** @ RIT Quant-A-Thon 2026 (IBM-sponsored)
 - 🔬 **State-Level Participant** — Indian Children Science Congress (Representing Vidarbha, Pune)
 - 📰 Research work featured in **Lokmat Times** · **1st Place** @ Indian Women Scientist Association contest
@@ -27,7 +28,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 ESC — Enhanced Study Companion</h3> https://esc-study-companion-web.onrender.com
+      <h3>📚 <a href="https://github.com/kanishkdubey1946-del/ESC">ESC — Enhanced Study Companion</a></h3>
+      <p><a href="https://esc-study-companion-web.onrender.com">Live demo</a></p>
       <p>AI-powered personalised learning assistant. 12 AI specialists combining live web research with your own sources to help you understand, practise, and plan. <strong>Runner-Up @ Hack & Jam 2026</strong> (GDG Nagpur).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -36,7 +38,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌾 AgroBot — Smart Agriculture IoT</h3>
+      <h3>🌾 <a href="https://github.com/kanishkdubey1946-del/agrobot-smart-irrigation-system">AgroBot — Smart Agriculture IoT</a></h3>
       <p>NodeMCU V3 + soil moisture sensor + HTTP telemetry → live 7-day dashboard. Built & documented as IIT Patna Capstone-I.</p>
       <p>
         <img src="https://img.shields.io/badge/NodeMCU-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
@@ -48,7 +50,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔬 DRISHTI — AI Exam Evaluation</h3>
+      <h3>🔬 <a href="https://github.com/aDiii1633/drishti">DRISHTI — AI Exam Evaluation</a></h3>
       <p>Human-in-the-Loop OSM system. Blind-first verification · rubric-referenced rationale · append-only audit ledger · ESP32-S3 CAM capture pipeline. <em>Manuscript in Preparation.</em></p>
       <p>
         <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
@@ -57,7 +59,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 COMET — Multi-Agent Orchestration</h3>
+      <h3>🤖 <a href="https://github.com/raunakiitp/COMET">COMET — Multi-Agent Orchestration</a></h3>
       <p>12-agent AI system built with Google ADK and Gemini. Agents coordinate autonomously to resolve complex tasks — no manual handoffs.</p>
       <p>
         <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white"/>
@@ -65,6 +67,16 @@
         <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
         <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚁 <a href="https://github.com/SIH-Pushpak-Logistics/Pushpak">Pushpak — Drone Navigation</a></h3>
+      <p>Smart India Hackathon team project exploring decentralized, GPS-independent navigation and fleet deconfliction in a Gazebo simulation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/kanishkdubey1946-del/quantathon">Catalyst — Scientific Workspace</a></h3>
+      <p>RIT Quant-A-Thon finalist team project connecting materials exploration, evidence graphs, 3D structures, and context-aware genomics. Linked repository is my fork of the team code.</p>
     </td>
   </tr>
 </table>
